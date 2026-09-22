@@ -1,5 +1,7 @@
 package org.example;
 
+
+
 public class Two_Sum1 {
 
     class Solution {
