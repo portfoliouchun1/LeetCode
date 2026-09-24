@@ -2,7 +2,7 @@ package org.example;
 
 
 
-public class Two_Sum1 {
+public class A_Two_Sum {
 
     class Solution {
         public int[] twoSum(int[] nums, int target) {

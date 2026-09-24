@@ -1,6 +1,6 @@
 package org.example;
 
-public class Add_Two_Numbers {
+public class B_Add_Two_Numbers {
 
 }
 
